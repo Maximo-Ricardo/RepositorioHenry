@@ -1,2 +1,0 @@
-# RepositorioHenry
-Homework 02
